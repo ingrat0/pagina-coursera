@@ -1,10 +1,16 @@
 .lorem-span{
-	background-color: skyblue;
 	padding: 4px;
 	display: inline-block;
 	float: left;
-
-
+}
+.lorem-span.color1{
+	background-color: lightcyan;
+}
+.lorem-span.color2{
+	background-color: lightcoral;
+}
+.lorem-span.color3{
+	background-color: lightyellow;
 }
 
 *{
@@ -15,7 +21,7 @@ p{
 	border: 1px black;
 	background-color: darkseagreen;
 	width:90%;
-	height: 150px;
+	height: 350px;
 	margin-left: 10px;
 	margin-right: 10px;
 	overflow: auto;
