@@ -1,4 +1,8 @@
+
 @media (min-width: 768px){
+	.nav-item {
+		display: none;
+	}
 	h1{
 		margin: 10px;
 		text-align: center;
@@ -12,6 +16,7 @@
 		background-color: grey;
 		width: 750px;
 		margin: 0 auto;
+		margin-bottom: 20px;
 	
 	}
 	h2{
@@ -34,6 +39,7 @@
 	padding: 10px;
 	background-color: grey;
 	width: auto;
+	margin-bottom: 20px;
 }
 h2{
 	text-align: center;
@@ -47,3 +53,5 @@ h1{
  }
 
 
+
+ 
